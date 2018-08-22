@@ -2,3 +2,5 @@ numpy
 pylatex
 #python-nmap
 pydot
+psutil
+ipwhois
