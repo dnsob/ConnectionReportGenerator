@@ -1,7 +1,7 @@
 # ConnectionReportGenerator
 
-Pythoni version: 3
+Python version: 3
 
 Prerequisities:
 	- install GraphViz
-	- pip3 install -r requirements
+	- install dependencies (pip3 install -r requirements)

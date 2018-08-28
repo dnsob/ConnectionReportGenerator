@@ -4,3 +4,5 @@ pylatex
 pydot
 psutil
 ipwhois
+#whois
+python-whois

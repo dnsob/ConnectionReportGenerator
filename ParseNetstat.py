@@ -2,6 +2,7 @@
 
 import psutil
 import numpy as np
+import whois
 from ipwhois import IPWhois
 from pylatex import Document, Section, Subsection, Table, Math, TikZ, Axis, Plot, Figure, Package, Matrix, Tabular
 from pylatex.utils import italic, escape_latex
@@ -18,3 +19,5 @@ for conn in psutil.net_connections():
 	except Exception:
 		pass
 
+#w = whois.whois('8.8.8.8')
+#print(w)
