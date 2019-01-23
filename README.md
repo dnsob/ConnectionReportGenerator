@@ -1,7 +1,7 @@
-# ConnectionReportGenerator
+# ConnectionReportGenerator (In process...)
+This script lists the output of the command *netstat -an*, looks up the inbound and outbound connections using whois and generates a PDF document.
+Python3
 
-Python version: 3
-
-Prerequisities:
-	- install GraphViz
-	- install dependencies (pip3 install -r requirements)
+Requirements:
+	- GraphViz
+	- pip3 install -r requirements
